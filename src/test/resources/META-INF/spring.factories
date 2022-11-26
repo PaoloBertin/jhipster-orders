@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = eu.opensorce.orders.config.TestContainersSpringContextCustomizerFactory
